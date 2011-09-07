@@ -1,4 +1,4 @@
-Quantity,#bomurl,creator,base part number,part variant,description
-1,xmos.ibom/XS1_L01A_LQ64/_C4,xmos.com,XS1-L01A-LQ64,-C4,IC MPU 32BIT SINGLE CORE 64LQFP
-1,atmel.ibom/Atmega324-AU/,atmel.com,Atmega328,-AU,IC MCU AVR 32K FLASH 32TQFP
-1,opencores.ibom/mycore32/vhdl/altera,opencores/me,mycore32,/vhdl/altera,My 32 bit open core
+#Quantity,bomurl,creator,base part number,part variant,local identifier,description
+1,xmos.ibom/XS1_L01A_LQ64/_C4,xmos.com,XS1-L01A-LQ64,-C4,IC1,IC MPU 32BIT SINGLE CORE 64LQFP
+1,atmel.ibom/Atmega324-AU/,atmel.com,Atmega328,-AU,IC2,IC MCU AVR 32K FLASH 32TQFP
+1,opencores.ibom/mycore32/vhdl/altera,opencores.com/me,mycore32,/vhdl/altera,IC3,My 32 bit open core
